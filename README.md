@@ -1,10 +1,8 @@
 # WORD-RUSH
 an addictive mini game inspired from wordle
 
-#WARNING:
-once u run the program minimze and then use for correct functionality
-
-
+## WARNING:
+once u run the program minimze and then reopen the game window for correct functionality
 
 ## How does word-rush work?!
 you are given a set of randomly generated alphabets using which you would have to make meaningful words
