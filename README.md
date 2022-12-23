@@ -13,7 +13,7 @@ you are given a set of randomly generated alphabets using which you would have t
 
 Wanna try out word-rush
 
-1.clone the repo locally
+1. clone the repo locally
 
 2. Install the dependencies.
 
@@ -24,7 +24,7 @@ pip install -r requirements.txt
 3. Launch a terminal in the directory you just cloned into and type in this command.
 
 ```
-python word_rush.py.
+python wordrush.py.
 ```
 
 Volla! You are all set :)
